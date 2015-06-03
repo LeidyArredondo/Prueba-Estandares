@@ -1,0 +1,91 @@
+{
+	"IcoMoonType": "selection",
+	"icons": [
+		{
+			"icon": {
+				"paths": [
+					"M512 128c-247.424 0-448 200.576-448 448s200.576 448 448 448 448-200.576 448-448-200.576-448-448-448zM512 936c-198.824 0-360-161.178-360-360 0-198.824 161.176-360 360-360 198.822 0 360 161.176 360 360 0 198.822-161.178 360-360 360zM934.784 287.174c16.042-28.052 25.216-60.542 25.216-95.174 0-106.040-85.96-192-192-192-61.818 0-116.802 29.222-151.92 74.596 131.884 27.236 245.206 105.198 318.704 212.578v0zM407.92 74.596c-35.116-45.374-90.102-74.596-151.92-74.596-106.040 0-192 85.96-192 192 0 34.632 9.174 67.122 25.216 95.174 73.5-107.38 186.822-185.342 318.704-212.578z",
+					"M512 576v-256h-64v320h256v-64z"
+				],
+				"attrs": [],
+				"tags": [
+					"alarm",
+					"time",
+					"clock"
+				],
+				"defaultCode": 57610,
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"id": 331,
+				"order": 2,
+				"prevSize": 32,
+				"code": 59728,
+				"ligatures": "alarm, time4",
+				"name": "alarm"
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 80
+		},
+		{
+			"icon": {
+				"paths": [
+					"M755.188 64c-107.63 0-200.258 87.554-243.164 179-42.938-91.444-135.578-179-243.216-179-148.382 0-268.808 120.44-268.808 268.832 0 301.846 304.5 380.994 512.022 679.418 196.154-296.576 511.978-387.206 511.978-679.418 0-148.392-120.43-268.832-268.812-268.832z"
+				],
+				"attrs": [],
+				"tags": [
+					"heart",
+					"like",
+					"love",
+					"favorite"
+				],
+				"defaultCode": 58119,
+				"grid": 16
+			},
+			"attrs": [],
+			"properties": {
+				"id": 871,
+				"order": 1,
+				"prevSize": 32,
+				"code": 59866,
+				"ligatures": "heart, like",
+				"name": "heart"
+			},
+			"setIdx": 0,
+			"setId": 0,
+			"iconIdx": 218
+		}
+	],
+	"height": 1024,
+	"metadata": {
+		"name": "icomoon"
+	},
+	"preferences": {
+		"showGlyphs": true,
+		"showQuickUse": true,
+		"showQuickUse2": true,
+		"showSVGs": true,
+		"fontPref": {
+			"prefix": "icon-",
+			"metadata": {
+				"fontFamily": "icomoon"
+			},
+			"metrics": {
+				"emSize": 1024,
+				"baseline": 6.25,
+				"whitespace": 50
+			}
+		},
+		"imagePref": {
+			"prefix": "icon-",
+			"png": true,
+			"useClassSelector": true,
+			"color": 4473924,
+			"bgColor": 16777215
+		},
+		"historySize": 100,
+		"showCodes": false
+	}
+}
